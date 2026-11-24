@@ -1,0 +1,23 @@
+# API 密钥
+.env
+.streamlit/secrets.toml
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 用户数据
+plans/
+data/
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# PyInstaller 打包文件
+build/
+dist/
+*.spec
